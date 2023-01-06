@@ -41,8 +41,13 @@ with open("readings.csv", "r") as readings_file_csv:
     csv_dictreader = csv.DictReader(readings_file_csv)
     csv_rows = list(csv_dictreader)
     print("\nNumber of rows:", len(csv_rows))
+    print("{:>10} {:>12} {:>25}".format("machine_id", "measurement", "value"))
     for row in csv_rows:
-        print(row["machine_id"], row["measurement"], row["value"])
+        print(
+            str(row["machine_id"]).rjust(10),
+            row["measurement"].rjust(12),
+            str(row["value"]).rjust(25)
+        )
     # Compare the read items with the generated items from the write step.
 
 print('\n')

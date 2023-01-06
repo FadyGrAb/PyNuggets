@@ -1,133 +1,129 @@
 [
     {
-        "machine_id": 49,
+        "machine_id": 25,
         "readings": {
-            "temp": 8.22672130329025
+            "temp": 3.558190966663842,
+            "current": 3.8140820426731494
         }
     },
     {
-        "machine_id": 91,
+        "machine_id": 13,
         "readings": {
-            "temp": 8.797154277299782
+            "voltage": 2.2174085999244597
         }
     },
     {
-        "machine_id": 57,
+        "machine_id": 63,
         "readings": {
-            "voltage": 1.3594708527266475
-        }
-    },
-    {
-        "machine_id": 29,
-        "readings": {
-            "temp": 2.8576045781647963,
-            "current": 0.22694348792168473
-        }
-    },
-    {
-        "machine_id": 81,
-        "readings": {
-            "current": 9.890032139394245,
-            "voltage": 9.393268325931945
-        }
-    },
-    {
-        "machine_id": 61,
-        "readings": {
-            "current": 2.8480498468914694,
-            "voltage": 2.6914097041552965
-        }
-    },
-    {
-        "machine_id": 26,
-        "readings": {
-            "current": 1.9669991793192898
-        }
-    },
-    {
-        "machine_id": 39,
-        "readings": {
-            "temp": 2.8716935495429787
-        }
-    },
-    {
-        "machine_id": 6,
-        "readings": {
-            "voltage": 0.9777384538149225
-        }
-    },
-    {
-        "machine_id": 9,
-        "readings": {
-            "current": 2.774864031281302,
-            "voltage": 7.557723896026809,
-            "temp": 5.9145953244306515
-        }
-    },
-    {
-        "machine_id": 28,
-        "readings": {
-            "current": 6.516730696730421,
-            "temp": 1.7917765364714122
-        }
-    },
-    {
-        "machine_id": 56,
-        "readings": {
-            "temp": 9.471662207751628
-        }
-    },
-    {
-        "machine_id": 69,
-        "readings": {
-            "current": 5.451758580321728,
-            "temp": 0.4475273774982269
-        }
-    },
-    {
-        "machine_id": 76,
-        "readings": {
-            "voltage": 4.3871542947180835
-        }
-    },
-    {
-        "machine_id": 89,
-        "readings": {
-            "temp": 0.8147901687108128
-        }
-    },
-    {
-        "machine_id": 20,
-        "readings": {
-            "voltage": 7.324554583577654,
-            "temp": 7.611243706220698
-        }
-    },
-    {
-        "machine_id": 46,
-        "readings": {
-            "voltage": 6.939451700991649,
-            "temp": 6.293029326319929
-        }
-    },
-    {
-        "machine_id": 87,
-        "readings": {
-            "voltage": 6.247988527493021,
-            "current": 5.937125753651755
-        }
-    },
-    {
-        "machine_id": 67,
-        "readings": {
-            "current": 9.060999806939762
+            "current": 6.0709228056515885,
+            "temp": 3.290439713458211
         }
     },
     {
         "machine_id": 64,
         "readings": {
-            "current": 7.080727744785485,
-            "voltage": 8.813564417269458
+            "current": 7.325384691057705,
+            "voltage": 8.035092348548554
+        }
+    },
+    {
+        "machine_id": 17,
+        "readings": {
+            "current": 8.59364310081356
+        }
+    },
+    {
+        "machine_id": 88,
+        "readings": {
+            "temp": 3.5171394817744863,
+            "current": 8.943363888296371
+        }
+    },
+    {
+        "machine_id": 17,
+        "readings": {
+            "temp": 5.155597837256666
+        }
+    },
+    {
+        "machine_id": 68,
+        "readings": {
+            "current": 9.809206889816505
+        }
+    },
+    {
+        "machine_id": 34,
+        "readings": {
+            "current": 7.988998973161396
+        }
+    },
+    {
+        "machine_id": 70,
+        "readings": {
+            "temp": 6.9212962219211915,
+            "current": 0.9720617680696841
+        }
+    },
+    {
+        "machine_id": 53,
+        "readings": {
+            "temp": 9.771224087353929
+        }
+    },
+    {
+        "machine_id": 86,
+        "readings": {
+            "current": 3.939874078570491
+        }
+    },
+    {
+        "machine_id": 58,
+        "readings": {
+            "voltage": 0.7291225675571522
+        }
+    },
+    {
+        "machine_id": 49,
+        "readings": {
+            "temp": 7.507661841590466
+        }
+    },
+    {
+        "machine_id": 55,
+        "readings": {
+            "voltage": 2.923074773492539
+        }
+    },
+    {
+        "machine_id": 73,
+        "readings": {
+            "voltage": 5.168076731046748,
+            "current": 9.873880776119545
+        }
+    },
+    {
+        "machine_id": 72,
+        "readings": {
+            "voltage": 9.159292048269629
+        }
+    },
+    {
+        "machine_id": 93,
+        "readings": {
+            "temp": 5.911466631105956,
+            "current": 8.025150673520313
+        }
+    },
+    {
+        "machine_id": 10,
+        "readings": {
+            "voltage": 9.413621015645596
+        }
+    },
+    {
+        "machine_id": 15,
+        "readings": {
+            "voltage": 2.0283544768532433
         }
     }
 ]
