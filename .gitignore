@@ -134,3 +134,4 @@ vscode
 *.csv
 *.json
 *.post.md
+venv_technuggets
